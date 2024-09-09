@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "efficiency-app"
+name = "digital-twin-be"
 version = "0.1.0"
-description = "Api For digital twin app"
+description = "Boilerplate for backend digitaltwin"
 authors = ["Cizz22 <cisatraa@gmail.com>"]
 readme = "README.md"
 
